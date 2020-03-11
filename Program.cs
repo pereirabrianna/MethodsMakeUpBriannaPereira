@@ -9,7 +9,6 @@ namespace MethodsMakeUpBriannaPereira
             try
             {
 
-
                 Console.WriteLine("Brianna Pereira Version = 36");
 
                 Console.WriteLine("Please enter any string: ");
@@ -19,9 +18,9 @@ namespace MethodsMakeUpBriannaPereira
 
                 Console.WriteLine("Please enter a number between 3 and 6: ");
 
-
                 int y = Convert.ToInt32(Console.ReadLine());
                 
+                //bonus
 
                 Console.WriteLine("Please enter a single character: ");
 
